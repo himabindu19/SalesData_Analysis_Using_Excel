@@ -11,3 +11,9 @@
 6. Relation between age, gender based on no of sales
 7. Which channel has maximum sales
 8. Highest Selling Category?
+
+# Data Cleansing
+1. Check all columns and make sure there are no blank values and no outliers
+2. In column 'Gender' there are inconsistencies - we change it to 'M' for men and 'F' for women
+3. In column 'Qty' - change One to 1 and Two to 2
+
